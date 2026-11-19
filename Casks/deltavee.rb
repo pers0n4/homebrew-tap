@@ -1,6 +1,6 @@
 cask "deltavee" do
-  version "0.1.0,1"
-  sha256 "7e41078c7f6f8329d6beb0316843f6f97d190c67750f8bcde53251b1df70d2b0"
+  version "0.1.1,2"
+  sha256 "68baccce1e374019f65bff7933cd223663261b99e66eca89cd82ef55155f87a0"
 
   url "https://github.com/pers0n4/deltavee/releases/download/v#{version.csv.first}/Deltavee-#{version.csv.first}-#{version.csv.second}.zip"
   name "Deltavee"
